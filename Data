@@ -1,0 +1,3834 @@
+[{
+  "_id": {
+    "$oid": "6374cca750c6f8fc694846fa"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-3111",
+  "CourseTitle": "Introduction to Computers Sessional",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "createdAt": {
+    "$date": "2022-11-16T11:42:31.005Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:08.932Z"
+  },
+  "__v": 0,
+  "Distributed": true,
+  "Semester": 2,
+  "SemesterPerYear": 2,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "6374ccb950c6f8fc6948474d"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1112",
+  "CourseTitle": "Data Structures",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "createdAt": {
+    "$date": "2022-11-16T11:42:49.893Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:18:52.409Z"
+  },
+  "__v": 0,
+  "Distributed": true,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "6374cccf50c6f8fc694847ac"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-4203",
+  "CourseTitle": "Electrical Circuits I",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Practical",
+  "createdAt": {
+    "$date": "2022-11-16T11:43:11.272Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:33.268Z"
+  },
+  "__v": 0,
+  "Distributed": true,
+  "Semester": 3,
+  "SemesterPerYear": 1,
+  "Year": 2
+},{
+  "_id": {
+    "$oid": "6374cd0050c6f8fc69484877"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "GED-1291",
+  "CourseTitle": "English Reading",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "CSE-4203",
+  "NatureOfCourse": "GED",
+  "createdAt": {
+    "$date": "2022-11-16T11:44:00.856Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-27T07:11:41.071Z"
+  },
+  "__v": 0,
+  "Distributed": false,
+  "Semester": null,
+  "SemesterPerYear": null,
+  "Year": null
+},{
+  "_id": {
+    "$oid": "6374cd4950c6f8fc694849a2"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "GED-1145",
+  "CourseTitle": "Functional English",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "GED-1291",
+  "NatureOfCourse": "GED",
+  "createdAt": {
+    "$date": "2022-11-16T11:45:13.739Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:33.269Z"
+  },
+  "__v": 0,
+  "Distributed": true,
+  "Semester": 3,
+  "SemesterPerYear": 1,
+  "Year": 2
+},{
+  "_id": {
+    "$oid": "6374cee550c6f8fc69485205"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1121",
+  "CourseTitle": "Introduction to Computers Advance",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 2,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "createdAt": {
+    "$date": "2022-11-16T11:52:05.533Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:18:52.409Z"
+  },
+  "__v": 0,
+  "Distributed": true,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "63774f70c554d30549d306fd"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-4205",
+  "CourseTitle": "Electrical Circuits II",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-18T09:25:04.346Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:33.269Z"
+  },
+  "__v": 0,
+  "Semester": 3,
+  "SemesterPerYear": 1,
+  "Year": 2
+},{
+  "_id": {
+    "$oid": "63775271c554d30549d3167a"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1111",
+  "CourseTitle": "Introduction to Computers",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 2,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-18T09:37:53.925Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:18:52.409Z"
+  },
+  "__v": 0,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "6377776025973b3cb1bef91a"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-3112",
+  "CourseTitle": "Data Structures Advance",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-18T12:15:28.391Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:08.932Z"
+  },
+  "__v": 0,
+  "Semester": 2,
+  "SemesterPerYear": 2,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "63785eb0a1635cb4d6985ecc"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-2233",
+  "CourseTitle": "Computer Aided Engineering Drawing",
+  "CurriculumName": "M.Sc in CSE (2020 Curriculum)",
+  "CurriculumID": "06121031",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "CSE-1111",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T04:42:24.568Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-20T16:19:08.932Z"
+  },
+  "__v": 0,
+  "Semester": 2,
+  "SemesterPerYear": 2,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "6378810ddc3a502ec536e0f0"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1121",
+  "CourseTitle": "Introduction to Computers Advance",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T07:09:01.457Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.246Z"
+  },
+  "__v": 0,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "63788133dc3a502ec536e18f"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-2233",
+  "CourseTitle": "Computer Aided Engineering Drawing",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T07:09:39.581Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "6378815fdc3a502ec536e246"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-3111",
+  "CourseTitle": "Introduction to Computers Sessional",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 2,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T07:10:23.978Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:14:14.536Z"
+  },
+  "__v": 0,
+  "Semester": 2,
+  "SemesterPerYear": 2,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "637882ccdc3a502ec536e926"
+  },
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Distributed": false,
+  "createdAt": {
+    "$date": "2022-11-19T07:16:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T07:16:28.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378924edc3a502ec53726dd"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-3112",
+  "CourseTitle": "Data Structures Advance",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "CSE-1112",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T08:22:38.934Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:14:14.537Z"
+  },
+  "__v": 0,
+  "Semester": 2,
+  "SemesterPerYear": 2,
+  "Year": 1
+},{
+  "_id": {
+    "$oid": "637893ffdc3a502ec5372dfe"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "GED-1291",
+  "CourseTitle": "English Reading",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "GED",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T08:29:51.503Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:14:14.537Z"
+  },
+  "__v": 0,
+  "Semester": 3,
+  "SemesterPerYear": 1,
+  "Year": 2
+},{
+  "_id": {
+    "$oid": "6378941edc3a502ec5372e81"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "GED-1145",
+  "CourseTitle": "Functional English",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "GED",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-19T08:30:22.060Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:14:14.537Z"
+  },
+  "__v": 0,
+  "Semester": 3,
+  "SemesterPerYear": 1,
+  "Year": 2
+},{
+  "_id": {
+    "$oid": "637b2497eed07a3bca5d95be"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "B.Sc in Computer Science and Engineering",
+  "ProgramCode": "12101",
+  "CourseCode": "CSE-1111",
+  "CourseTitle": "Introduction to Computers",
+  "CurriculumName": "B.Sc in Computer Science and Engineering",
+  "CurriculumID": "06121011",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": false,
+  "createdAt": {
+    "$date": "2022-11-21T07:11:19.127Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-21T07:11:19.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c906293e60e11f6fe817f"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1111",
+  "CourseTitle": "Introduction to Computers",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "637c90629"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs346",
+  "CourseTitle": "Introduction to Mathmaticssssssss",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "06121032",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 1,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 5,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 6,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 7,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 8,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+{
+  "_id": {
+    "$oid": "637c90"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "Cs340",
+  "CourseTitle": "Introduction to graphics",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2022)",
+  "CurriculumID": "0612",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": true,
+  "createdAt": {
+    "$date": "2022-11-22T09:03:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-23T04:13:48.248Z"
+  },
+  "__v": 0,
+  "Semester": 4,
+  "SemesterPerYear": 1,
+  "Year": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "638324f34ed4995031fcca8b"
+  },
+  "Faculty": "Modern Science",
+  "FacultyCode": "12",
+  "Department": "Computer Science and Engineering",
+  "DepartmentCode": 1210,
+  "Program": "M.Sc in Computer Science and Engineering",
+  "ProgramCode": "12103",
+  "CourseCode": "CSE-1313",
+  "CourseTitle": "ML Introduction",
+  "CurriculumName": "M.Sc in CSE (Curriclum 2018)",
+  "CurriculumID": "06121033",
+  "Credit": 3,
+  "EnteredBy": [
+    {
+      "Name": "Rumel M. S. Rahman Pir",
+      "Email": "rumelpir@lus.ac.bd",
+      "Mobile": "8801758228736",
+      "Designation": "Associate Professor",
+      "Photo": "0392ddbf-ccbf-46bc-8fd1-7a26182d74d3.jpg",
+      "ID": "479631",
+      "Department": "Computer Science and Engineering"
+    }
+  ],
+  "Prerequisite": "",
+  "NatureOfCourse": "Core",
+  "Distributed": false,
+  "createdAt": {
+    "$date": "2022-11-27T08:50:59.188Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-27T08:50:59.188Z"
+  },
+  "__v": 0
+}]
